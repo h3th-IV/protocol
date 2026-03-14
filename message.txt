@@ -1,0 +1,17 @@
+In silicon depths where logic's fire doth burn,
+The daemon wakes at midnight's coldest turn.
+It speaketh not, yet whispers through the wire,
+A thousand gates ablaze with phantom fire.
+
+What mortal hand hath wrought this thinking clay?
+That counts in nought and one till break of day.
+The stack doth grow, then crumble into dust,
+And memory leaks till all returns to rust.
+
+Hark! The segfault tolls its mournful bell,
+The pointer strayed to depths of allocated hell.
+Forsooth, the compiler weeps in scarlet red,
+For all the undefined behaviours left unsaid.
+
+Thus ends the program, exit code of naught,
+A fleeting process, soon to be forgot.
